@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<!--
+
 [![kerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerimdeveci)](https://github.com/anuraghazra/github-readme-stats)
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kerimdeveci&theme=dark" width="48%" >
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/kerimdeveci/count.svg" alt="Visitor Count" align="center" />
 </p>
-<!--
+
 **kerimdeveci/kerimdeveci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

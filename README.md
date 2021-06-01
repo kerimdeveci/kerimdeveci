@@ -45,9 +45,9 @@
 <a href="https://play.google.com/store/apps/developer?id=" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a> -->
 </p>
 
-### 🎧 Now Playing
+<!-- ### 🎧 Now Playing
 
-[<p align="center"> <img src="https://spotify-now-playing-1av0ey0ff-kerimdeveci.vercel.app/api/spotify-playing" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/ushas) 
+[<p align="center"> <img src="https://spotify-now-playing-1av0ey0ff-kerimdeveci.vercel.app/api/spotify-playing" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/ushas)  -->
 
   <!-- 
 - 🔭 I’m currently working on iOS applications

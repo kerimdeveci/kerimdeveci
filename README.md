@@ -28,8 +28,8 @@
 <p align="center">
 <a href="https://github.com/kerimdeveci">
 <p align="center"> 
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kerimdeveci&show_icons=true&theme=midnight-purple" alt="kerimdeveci"/>
-<!--     <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimdeveci&theme=dark" > -->
+    <!-- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kerimdeveci&show_icons=true&theme=midnight-purple" alt="kerimdeveci"/> -->
+    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimdeveci&theme=dark" >
     <!-- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimdeveci&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="kerimdeveci"/> -->
     <!-- <img height="10m" align="center" src="https://profile-counter.glitch.me/kerimdeveci/count.svg" alt="Visitor Count" align="center" /> -->  
 </a>
@@ -39,7 +39,7 @@
 
 <p align="left">
 <a href="https://twitter.com/kerimswift" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+<!-- <a href="https://medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> -->
 <!-- <a href="https://t.me/" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a> -->
 <!-- <a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 <a href="https://play.google.com/store/apps/developer?id=" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a> -->

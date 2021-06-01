@@ -29,7 +29,7 @@
 <a href="https://github.com/kerimdeveci">
 <p align="center"> 
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kerimdeveci&show_icons=true&theme=midnight-purple" alt="kerimdeveci"/>
-    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimdeveci&theme=dark" >
+<!--     <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimdeveci&theme=dark" > -->
     <!-- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimdeveci&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="kerimdeveci"/> -->
     <!-- <img height="10m" align="center" src="https://profile-counter.glitch.me/kerimdeveci/count.svg" alt="Visitor Count" align="center" /> -->  
 </a>

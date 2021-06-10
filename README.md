@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kerim</h1>
+<!-- <h1 align="center">Hi 👋, I'm Kerim</h1>
 <h3 align="center">an iOS Developer</h3>
 
-
+ -->
 ### 🛠 Tech Stack
 
 ![Dart](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=orange)&nbsp;
